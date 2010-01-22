@@ -48,6 +48,14 @@
 
 !SLIDE bullets incremental
 
+# Signals
+
+* `TERM`
+* `QUIT`
+* `USR1`
+
+!SLIDE bullets incremental
+
 # god / monit friendly
 
 * Parent responds promptly to signals
