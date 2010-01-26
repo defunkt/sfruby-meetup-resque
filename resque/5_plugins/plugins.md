@@ -2,7 +2,7 @@
 
 # Plugins
 
-* Resque featured locked until 2.0
+* Resque feature-locked until 2.0
 * Focusing on stability and fault tolerance
 * Plugins are how to get more functionality
 
